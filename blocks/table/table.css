@@ -1,0 +1,14 @@
+.states table, th {
+  border: 1px solid black;
+  background-color:blue;
+}
+.states table, td {
+  border: 1px solid black;
+  background-color: ghostwhite;
+}
+
+.states .region-select>select{
+  width: 40%;
+  font-size: large;
+  background-color: lightgoldenrodyellow;
+}
